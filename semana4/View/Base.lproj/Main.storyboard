@@ -45,7 +45,7 @@
                                     <color key="baseBackgroundColor" red="0.13725490196078433" green="0.66666666666666663" blue="0.28627450980392155" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <segue destination="FC1-CE-9EN" kind="show" id="3Je-OD-paf"/>
+                                    <segue destination="FC1-CE-9EN" kind="presentation" modalPresentationStyle="fullScreen" id="3Je-OD-paf"/>
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fruits" translatesAutoresizingMaskIntoConstraints="NO" id="3cf-8B-CNg">
